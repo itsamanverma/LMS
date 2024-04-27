@@ -57,18 +57,5 @@ If you would like to contribute to this project, please follow these steps:
 + Submit a pull request to this repository with a detailed description of your changes.
 
 # Screenshots
-+ HOME PAGE
 
-![Home page](https://github.com/dinesh6383/LIBRARY-MANAGEMENT-SYSTEM/blob/main/Homepage.png?raw=true
-)
-
-+ SEARCH PAGE
-
-![Home page](https://github.com/dinesh6383/LIBRARY-MANAGEMENT-SYSTEM/blob/main/SearchPage.png?raw=true
-)
-
-+ ADMIN PANEL
-
-![Home page](https://github.com/dinesh6383/LIBRARY-MANAGEMENT-SYSTEM/blob/main/Admin%20Page.png?raw=true
-)
 
